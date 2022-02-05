@@ -41,39 +41,41 @@ function App() {
                 Women-Focused Aid
               </h1>
               <p className="top-text">
+                1 in 5 women struggle with mental health issues. Information
+                about women and mental health and issues thatat they face.
                 Information about women and mental health and issues thatat they
                 face. Information about women and mental health and issues
                 thatat they face. Information about women and mental health and
-                issues thatat they face. Information about women and mental
-                health and issues thatat they face. Information about women and
-                mental health and issues thatat they face.
+                issues thatat they face.
               </p>
             </div>
           </div>
         </div>
       </header>
       <body className="body-text">
-        <h3>
+        <h2 class="display-5">
           Why?
           <small class="text-muted"> and How?</small>
-        </h3>
+        </h2>
         <p className="body-text">
-          Why? stigma- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Pellentesque condimentum elit et euismod gravida. Sed molestie aliquet
-          nisl ac ornare. Phasellus efficitur eleifend ante ac pretium.
-          Vestibulum suscipit, erat in mollis ultricies, urna augue porta erat,
-          a facilisis dui elit non augue. Sed ac commodo leo, quis dictum est.
-          Donec lectus nibh, tincidunt nec lorem sed, feugiat dignissim nisi.
-          Class aptent taciti sociosqu ad litora torquent per conubia nostra,
-          per inceptos himenaeos. In risus odio, feugiat sollicitudin mi vel,
-          viverra mattis dui. Nam tristique venenatis velit et finibus. Fusce
-          fringilla, nunc vitae aliquam consequat, lacus dui laoreet lectus, a
-          venenatis est risus id ipsum. Pellentesque nulla risus, condimentum
-          eget finibus sed, fermentum in lacus. Aliquam suscipit justo ut tortor
-          venenatis varius. Quisque id mi eget tellus porta accumsan. Etiam
-          varius sem ut lorem fringilla, at tincidunt arcu tincidunt. Donec at
-          enim vel neque fringilla gravida. Nam malesuada tempus mauris, quis
-          hendrerit justo lacinia in.{" "}
+          Recent research has shown that the way men and women display mental
+          illness differs greatly. This disparity, in conjunction with misogyny,
+          results in healthcare being tailored to suit men’s needs, and severely
+          lacking in its attention to women’s needs. Stigma... Phasellus
+          efficitur eleifend ante ac pretium. Vestibulum suscipit, erat in
+          mollis ultricies, urna augue porta erat, a facilisis dui elit non
+          augue. Sed ac commodo leo, quis dictum est. Donec lectus nibh,
+          tincidunt nec lorem sed, feugiat dignissim nisi. Class aptent taciti
+          sociosqu ad litora torquent per conubia nostra, per inceptos
+          himenaeos. In risus odio, feugiat sollicitudin mi vel, viverra mattis
+          dui. Nam tristique venenatis velit et finibus. Fusce fringilla, nunc
+          vitae aliquam consequat, lacus dui laoreet lectus, a venenatis est
+          risus id ipsum. Pellentesque nulla risus, condimentum eget finibus
+          sed, fermentum in lacus. Aliquam suscipit justo ut tortor venenatis
+          varius. Quisque id mi eget tellus porta accumsan. Etiam varius sem ut
+          lorem fringilla, at tincidunt arcu tincidunt. Donec at enim vel neque
+          fringilla gravida. Nam malesuada tempus mauris, quis hendrerit justo
+          lacinia in.{" "}
         </p>
         <figure class="text-center">
           <blockquote class="blockquote">
@@ -87,10 +89,10 @@ function App() {
         <div class="container overflow-hidden">
           <div class="row g-2">
             <div class="col">
-              <h3>Accessibilty</h3>
-              <h3>
+              <h2 class="display-6">Accessibilty</h2>
+              <h2 class="display-6">
                 <small class="text-muted"> and Socioeconomics</small>
-              </h3>
+              </h2>
               <p className="body-text-two">
                 Aliquam placerat, nulla vel vehicula lacinia, nibh metus aliquam
                 nisi, a ultricies enim eros vel leo. Nunc mi magna, auctor vel
@@ -106,23 +108,23 @@ function App() {
               </p>
             </div>
             <div class="col">
-              <h3>Focus on Women</h3>
-              <h3>
+              <h2 class="display-6">Focus on Women</h2>
+              <h2 class="display-6">
                 <small class="text-muted"> and Care Designed for Us</small>
-              </h3>
+              </h2>
               <p className="body-text-two">
-                Quisque sed quam sed metus tincidunt malesuada. Fusce nibh
-                felis, porta quis ex a, condimentum sagittis tellus. Maecenas at
-                felis quis dui auctor commodo. Morbi dictum ante vel mauris
-                vehicula, ac rutrum est convallis. Suspendisse nunc augue,
-                pellentesque sed dolor nec, scelerisque pellentesque dolor.
-                Maecenas euismod, justo vitae rhoncus eleifend, nibh libero
-                sollicitudin ligula, nec finibus leo nisl sit amet magna. Etiam
-                at pellentesque enim, non rhoncus turpis. Quisque lacinia eu
-                risus in mattis. Phasellus placerat, lectus sed tempus
-                ultricies, ex dolor viverra justo, et aliquet metus justo vel
-                arcu. Pellentesque habitant morbi tristique senectus et netus et
-                malesuada fames ac turpis egestas.
+                As well as differences in expression, men and women are at
+                different risk for certain disorders and sometimes require
+                different treatment. Maecenas at felis quis dui auctor commodo.
+                Morbi dictum ante vel mauris vehicula, ac rutrum est convallis.
+                Suspendisse nunc augue, pellentesque sed dolor nec, scelerisque
+                pellentesque dolor. Maecenas euismod, justo vitae rhoncus
+                eleifend, nibh libero sollicitudin ligula, nec finibus leo nisl
+                sit amet magna. Etiam at pellentesque enim, non rhoncus turpis.
+                Quisque lacinia eu risus in mattis. Phasellus placerat, lectus
+                sed tempus ultricies, ex dolor viverra justo, et aliquet metus
+                justo vel arcu. Pellentesque habitant morbi tristique senectus
+                et netus et malesuada fames ac turpis egestas.
               </p>
             </div>
           </div>
