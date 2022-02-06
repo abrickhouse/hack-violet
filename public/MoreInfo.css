@@ -21,9 +21,11 @@ h5 {
 
 #header-p {
   padding-left: 0px;
+  color: rgb(32, 11, 37);
+}
+#special-header-p {
   color: rgb(215, 204, 218);
 }
-
 #VT {
   padding-left: 60px;
   padding-right: 70px;
