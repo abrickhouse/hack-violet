@@ -28,7 +28,7 @@ function App() {
               COVID-19
             </a>{" "}
             <a class="nav-item nav-link" href="vTech.html">
-              Virginia Tech
+              Virginia Tech Women
             </a>
           </div>
         </div>
