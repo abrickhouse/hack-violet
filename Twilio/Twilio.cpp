@@ -8,7 +8,7 @@ class Example
 { 
     static void Main(string[] args) 
     { 
-        var accountSid = "ENTER SID"; 
+        var accountSid = "[ENTER SID]"; 
         var authToken = "[AuthToken]"; 
         TwilioClient.Init(accountSid, authToken); 
  
