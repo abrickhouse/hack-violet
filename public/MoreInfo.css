@@ -21,10 +21,14 @@ h5 {
 
 #header-p {
   padding-left: 0px;
-  color: rgb(64, 34, 71);
+  color: rgb(215, 204, 218);
 }
 
 #VT {
   padding-left: 60px;
   padding-right: 70px;
+}
+#special-header {
+  background-color: rgb(128, 104, 148);
+  margin-bottom: 20px;
 }
