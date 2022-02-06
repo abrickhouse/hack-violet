@@ -24,6 +24,9 @@ function App() {
             <a class="nav-item nav-link" href="info.html">
               Get Information
             </a>
+            <a class="nav-item nav-link" href="genR.html">
+              General Resources
+            </a>
             <a class="nav-item nav-link" href="covidPage.html">
               COVID-19
             </a>{" "}
@@ -49,7 +52,7 @@ function App() {
                 Information about women and mental health and issues thatat they
                 face. Information about women and mental health and issues
                 thatat they face. Information about women and mental health and
-                issues thatat they face.
+                issues that they face.
               </p>
             </div>
           </div>
