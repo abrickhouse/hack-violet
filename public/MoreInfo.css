@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(226, 211, 228);
+}
+header {
+  padding: 20px;
+  padding-left: 50px;
+}
+
+#my-div {
+  padding: 20px;
+  padding-left: 50px;
+}
+#bottom-text {
+  align-self: center;
+  padding-left: 50px;
+  color: rgb(35, 6, 49);
+}
+h5 {
+  padding-left: 60px;
+}
+
+#header-p {
+  padding-left: 0px;
+  color: rgb(64, 34, 71);
+}
+
+#VT {
+  padding-left: 60px;
+}

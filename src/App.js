@@ -21,11 +21,14 @@ function App() {
             <a class="nav-item nav-link" href="#">
               Home
             </a>
-            <a class="nav-item nav-link" href="#">
-              Find Help
-            </a>
             <a class="nav-item nav-link" href="info.html">
               Get Information
+            </a>
+            <a class="nav-item nav-link" href="covidPage.html">
+              COVID-19
+            </a>{" "}
+            <a class="nav-item nav-link" href="vTech.html">
+              Virginia Tech
             </a>
           </div>
         </div>
