@@ -1,4 +1,5 @@
 import logo from "./fem-med.png";
+import arrow from "./arrow-right.svg";
 import "./App.css";
 
 function App() {
@@ -112,6 +113,11 @@ function App() {
                 bibendum pulvinar. Phasellus eleifend nec tortor in molestie.
                 Mauris mattis elit id rutrum eleifend.{" "}
               </p>
+              <br></br>
+              <h2 class="display-6">Sign Up for our Newsletter!</h2>
+              <p className="body-text-three">
+                We update monthly with new resources and research!
+              </p>
             </div>
             <div class="col">
               <h2 class="display-6">Focus on Women</h2>
@@ -132,6 +138,31 @@ function App() {
                 justo vel arcu. Pellentesque habitant morbi tristique senectus
                 et netus et malesuada fames ac turpis egestas.
               </p>
+              <div class="grid">
+                <div class="g-col-6">
+                  <label class="visually-hidden" for="autoSizingInputGroup">
+                    Username
+                  </label>
+                  <div class="input-group">
+                    <div class="input-group-text">@</div>
+                    <input
+                      type="text"
+                      class="form-control"
+                      id="autoSizingInputGroup"
+                      placeholder="Username"
+                    ></input>
+                  </div>
+                  <div class="g-col-6">
+                    <button
+                      type="submit"
+                      class="btn btn-secondary"
+                      id="email-button"
+                    >
+                      Submit
+                    </button>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
