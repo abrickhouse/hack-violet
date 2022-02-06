@@ -34,6 +34,10 @@ function App() {
             <a class="nav-item nav-link" href="vTech.html">
               Virginia Tech Women
             </a>
+            <a class="nav-item nav-link" href="chatbot.html">
+              {" "}
+              Chat{" "}
+            </a>
           </div>
         </div>
       </nav>
